@@ -1,0 +1,207 @@
+{
+    "TECNO": {
+        "Spark 40": {
+            "ram": [8, 12, 16],
+            "refresh_rate": 120,
+            "performance": 7,
+            "resolution": "720x1600",
+            "dpi_range": [450, 600]
+        },
+        "Spark 40 5G": {
+            "ram": [8, 16],
+            "refresh_rate": 120,
+            "performance": 8,
+            "resolution": "720x1600",
+            "dpi_range": [450, 620]
+        },
+        "Spark 30": {
+            "ram": [8, 16],
+            "refresh_rate": 90,
+            "performance": 7,
+            "resolution": "1080x2400",
+            "dpi_range": [450, 600]
+        }
+    },
+
+    "Samsung": {
+        "Galaxy A15": {
+            "ram": [4, 6, 8],
+            "refresh_rate": 90,
+            "performance": 6,
+            "resolution": "1080x2340",
+            "dpi_range": [420, 580]
+        },
+        "Galaxy A15 5G": {
+            "ram": [4, 6, 8],
+            "refresh_rate": 90,
+            "performance": 7,
+            "resolution": "1080x2340",
+            "dpi_range": [420, 580]
+        },
+        "Galaxy A25 5G": {
+            "ram": [6, 8],
+            "refresh_rate": 120,
+            "performance": 7,
+            "resolution": "1080x2340",
+            "dpi_range": [450, 600]
+        }
+    },
+
+    "Infinix": {
+        "Note 40": {
+            "ram": [8],
+            "refresh_rate": 120,
+            "performance": 8,
+            "resolution": "1080x2436",
+            "dpi_range": [450, 620]
+        },
+        "Note 40 5G": {
+            "ram": [8],
+            "refresh_rate": 120,
+            "performance": 8,
+            "resolution": "1080x2436",
+            "dpi_range": [450, 620]
+        },
+        "Hot 40": {
+            "ram": [8],
+            "refresh_rate": 90,
+            "performance": 6,
+            "resolution": "1080x2460",
+            "dpi_range": [450, 600]
+        }
+    },
+
+    "Xiaomi": {
+        "Redmi Note 13": {
+            "ram": [6, 8, 12],
+            "refresh_rate": 120,
+            "performance": 8,
+            "resolution": "1080x2400",
+            "dpi_range": [450, 620]
+        }
+    },
+
+    "POCO": {
+        "POCO X6": {
+            "ram": [8, 12],
+            "refresh_rate": 120,
+            "performance": 9,
+            "resolution": "1220x2712",
+            "dpi_range": [450, 650]
+        }
+    },
+
+    "itel": {
+        "A90": {
+            "ram": [3, 4],
+            "refresh_rate": 90,
+            "performance": 5,
+            "resolution": "720x1600",
+            "dpi_range": [400, 550]
+        }
+    },
+
+    "OPPO": {
+        "A60": {
+            "ram": [8],
+            "refresh_rate": 90,
+            "performance": 6,
+            "resolution": "720x1604",
+            "dpi_range": [420, 580]
+        }
+    },
+
+    "vivo": {
+        "Y28": {
+            "ram": [8],
+            "refresh_rate": 90,
+            "performance": 6,
+            "resolution": "720x1612",
+            "dpi_range": [420, 580]
+        }
+    },
+
+    "OnePlus": {
+        "Nord CE 4": {
+            "ram": [8],
+            "refresh_rate": 120,
+            "performance": 8,
+            "resolution": "1080x2412",
+            "dpi_range": [450, 620]
+        }
+    },
+
+    "Realme": {
+        "C65": {
+            "ram": [6, 8],
+            "refresh_rate": 90,
+            "performance": 6,
+            "resolution": "720x1604",
+            "dpi_range": [420, 580]
+        }
+    },
+
+    "HONOR": {
+        "X8b": {
+            "ram": [8],
+            "refresh_rate": 90,
+            "performance": 6,
+            "resolution": "2412x1080",
+            "dpi_range": [420, 580]
+        }
+    },
+
+    "Nokia": {
+        "G42 5G": {
+            "ram": [4, 6],
+            "refresh_rate": 90,
+            "performance": 6,
+            "resolution": "720x1612",
+            "dpi_range": [420, 570]
+        }
+    },
+
+    "Motorola": {
+        "Moto G54 5G": {
+            "ram": [8, 12],
+            "refresh_rate": 120,
+            "performance": 8,
+            "resolution": "1080x2400",
+            "dpi_range": [450, 620]
+        }
+    },
+
+    "Google": {
+        "Pixel 7a": {
+            "ram": [8],
+            "refresh_rate": 90,
+            "performance": 8,
+            "resolution": "1080x2400",
+            "dpi_range": [420, 580]
+        }
+    },
+
+    "Apple": {
+        "iPhone XR": {
+            "ram": [3],
+            "refresh_rate": 60,
+            "performance": 7,
+            "resolution": "828x1792",
+            "dpi_range": [400, 500]
+        },
+        "iPhone 11": {
+            "ram": [4],
+            "refresh_rate": 60,
+            "performance": 8,
+            "resolution": "828x1792",
+            "dpi_range": [400, 520]
+        },
+        "iPhone 12": {
+            "ram": [4],
+            "refresh_rate": 60,
+            "performance": 8,
+            "resolution": "1170x2532",
+            "dpi_range": [400, 520]
+        }
+    }
+}

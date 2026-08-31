@@ -1,0 +1,16 @@
+{
+    "device": "itel A90",
+    "dpi_enabled": false,
+    "dpi": null,
+    "ram": 8,
+    "finger_layout": "3 Finger",
+    "play_style": "Headshot",
+    "sensitivity": {
+        "General": 154,
+        "Red Dot": 149,
+        "2x Scope": 140,
+        "4x Scope": 129,
+        "Sniper Scope": 99,
+        "Free Look": 146
+    }
+}
